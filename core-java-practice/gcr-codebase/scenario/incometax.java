@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pq2 {
+public class incometax {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int[] arr = new int[10];
